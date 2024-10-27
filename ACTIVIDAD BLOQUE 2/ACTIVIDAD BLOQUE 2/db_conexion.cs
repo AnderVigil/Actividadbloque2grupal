@@ -12,8 +12,24 @@ namespace ACTIVIDAD_BLOQUE_2
     {
         SqlConnection miConexion = new SqlConnection();
         SqlCommand miComando = new SqlCommand();
-        SqlDataAdapter miDataAdapter = new SqlDataAdapter();
+        SqlDataAdapter miAdaptador = new SqlDataAdapter();
         DataSet ds = new DataSet();
+
+        public db_conexion()
+        {
+            miConexion.ConnectionString = @"Data Source = (LocalDB)\MSSQLLocalDB;AttachDbFilename=|DataDirectory|\PeliculasDB.mdf;Integrated Security = True";
+            miConexion.Open();
+        }
+          public DataSet obtenerDatos()
+          {
+            ds.Clear();
+            miComando.Connection = miConexion;
+            miComando.CommandText = "SELECT Peliculas.titulo, Peliculas.Autor, Peliculas.Sinopsis, Peliculas.Duracion, Peliculas.Clasificacion";
+            miAdaptador.SelectCommand = miComando;
+            miAdaptador.Fill(ds, "Peliculas");
+            return ds;
+          }
 
     }
 }
+

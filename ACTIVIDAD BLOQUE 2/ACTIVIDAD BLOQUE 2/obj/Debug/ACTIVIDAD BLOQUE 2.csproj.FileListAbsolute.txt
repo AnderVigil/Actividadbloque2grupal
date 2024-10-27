@@ -1,0 +1,12 @@
+C:\Users\ander\OneDrive\Escritorio\Actividadbloque2grupal\ACTIVIDAD BLOQUE 2\ACTIVIDAD BLOQUE 2\bin\Debug\PeliculasDB.mdf
+C:\Users\ander\OneDrive\Escritorio\Actividadbloque2grupal\ACTIVIDAD BLOQUE 2\ACTIVIDAD BLOQUE 2\bin\Debug\PeliculasDB_log.ldf
+C:\Users\ander\OneDrive\Escritorio\Actividadbloque2grupal\ACTIVIDAD BLOQUE 2\ACTIVIDAD BLOQUE 2\bin\Debug\ACTIVIDAD BLOQUE 2.exe.config
+C:\Users\ander\OneDrive\Escritorio\Actividadbloque2grupal\ACTIVIDAD BLOQUE 2\ACTIVIDAD BLOQUE 2\bin\Debug\ACTIVIDAD BLOQUE 2.exe
+C:\Users\ander\OneDrive\Escritorio\Actividadbloque2grupal\ACTIVIDAD BLOQUE 2\ACTIVIDAD BLOQUE 2\bin\Debug\ACTIVIDAD BLOQUE 2.pdb
+C:\Users\ander\OneDrive\Escritorio\Actividadbloque2grupal\ACTIVIDAD BLOQUE 2\ACTIVIDAD BLOQUE 2\obj\Debug\ACTIVIDAD BLOQUE 2.csproj.AssemblyReference.cache
+C:\Users\ander\OneDrive\Escritorio\Actividadbloque2grupal\ACTIVIDAD BLOQUE 2\ACTIVIDAD BLOQUE 2\obj\Debug\ACTIVIDAD_BLOQUE_2.Form1.resources
+C:\Users\ander\OneDrive\Escritorio\Actividadbloque2grupal\ACTIVIDAD BLOQUE 2\ACTIVIDAD BLOQUE 2\obj\Debug\ACTIVIDAD_BLOQUE_2.Properties.Resources.resources
+C:\Users\ander\OneDrive\Escritorio\Actividadbloque2grupal\ACTIVIDAD BLOQUE 2\ACTIVIDAD BLOQUE 2\obj\Debug\ACTIVIDAD BLOQUE 2.csproj.GenerateResource.cache
+C:\Users\ander\OneDrive\Escritorio\Actividadbloque2grupal\ACTIVIDAD BLOQUE 2\ACTIVIDAD BLOQUE 2\obj\Debug\ACTIVIDAD BLOQUE 2.csproj.CoreCompileInputs.cache
+C:\Users\ander\OneDrive\Escritorio\Actividadbloque2grupal\ACTIVIDAD BLOQUE 2\ACTIVIDAD BLOQUE 2\obj\Debug\ACTIVIDAD BLOQUE 2.exe
+C:\Users\ander\OneDrive\Escritorio\Actividadbloque2grupal\ACTIVIDAD BLOQUE 2\ACTIVIDAD BLOQUE 2\obj\Debug\ACTIVIDAD BLOQUE 2.pdb
